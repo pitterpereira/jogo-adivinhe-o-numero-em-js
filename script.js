@@ -57,10 +57,7 @@ document.querySelector('.again').addEventListener('click', () => {
 // Função para setar os valores iniciais do jogo
 function inicioJogo() {
     // Geração do número aleatório de 1 a 20
-    // numero = Math.floor(Math.random() * 20) + 1;
-
-    // Número fixo para implementação da lógica
-    numero = 15;
+    numero = Math.floor(Math.random() * 20) + 1;
 
     // Pontuação inicial do jogo. 10 chances!
     pontos = 10;
