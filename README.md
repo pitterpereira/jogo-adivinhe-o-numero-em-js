@@ -1,4 +1,5 @@
 # Adivinhe o Número 🎲
+---
 
 Um jogo de adivinhação, feito em HTML, CSS e JS, onde um número secreto (entre 1 e 20) é gerado e o jogador tem 10 chances para adivinhar qual é o número gerado. 
 
